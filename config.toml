@@ -1,0 +1,4 @@
+baseURL = "https://curtain-voobiku.vercel.app"
+languageCode = "en-us"
+title = "Simple Curtains Design"
+theme = "hugo-theme-minos"
